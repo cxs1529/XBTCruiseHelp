@@ -1,0 +1,37 @@
+C:\Users\christian.saiz\Documents\0_NOAA\1_NOAA_work\1_XBT\XBTCruise_help>XBTCruiseHelp
+                            *** XBT CRUISE ASSISTANT ***
+************************************************************************************
+* Calculate Distance A-B |travel time |ETA |time to reload AL |XBTs to launch |    *
+* Points of interest: 30.33 -81.63 (JAX), 25.77 -80.16 (MIA), 18.45 -66.10 (SJU)   *
+* Exit with CTRL+C                                                                 *
+************************************************************************************
+
+---------------------------------Distance A-B---------------------------------------
+POSITION A:
+Enter LAT [dd.ddd 0 or dd mm.mmm]:30.33 0
+Enter LON [dd.ddd 0 or dd mm.mmm]:-81.63 0
+POSITION B:
+Enter LAT [dd.ddd 0 or dd mm.mmm]:25.77 0
+Enter LON [dd.ddd 0 or dd mm.mmm]:-80.16 0
+Enter speed [kt]:20
+-->
+Current time:       08/03/2023 14:20:15 UTC
+Positions:          A: 30.330 -81.630 | B: 25.770 -80.160
+Distance:           527.2 km
+Travel time:        14.2 hours (0.6 days)
+Estimated arrival:  08/04/2023 04:33:04 UTC
+
+---------------------------------XBT deployments------------------------------------
+Distance between deployments [km]:30
+-->
+XBTs to deploy:     17 (1.4 box)
+
+---------------------------------Empty Autolauncher---------------------------------
+XBTs loaded:5
+Time to next launch [minutes]:14
+-->
+Empty launch in:    4.3 hours (257.0 minutes)
+Reload by:          08/03/2023 18:35:44 UTC
+-----------------------------------------End----------------------------------------
+
+C:\Users\christian.saiz\Documents\0_NOAA\1_NOAA_work\1_XBT\XBTCruise_help>
